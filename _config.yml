@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manasadevi P Thirugnanasambandam"
+title                    : "M P Thirugnanasambandam's personal webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Manasadevi P. Thirugnanasambandam"
+name                     : "Dr. Manasadevi P. Thirugnanasambandam"
 description              : "My personal webpage."
 url                      : "https://manasa-p-t.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
