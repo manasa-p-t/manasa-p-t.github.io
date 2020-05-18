@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Manasadevi P Thirugnanasambandam"
-  avatar           : "/assets/images/manasa.jpg"
+  avatar           : "/images/manasa.jpg"
   bio              : "Research faculty"
   location         : "IUCAA, Pune"
   email            :
@@ -105,6 +105,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://www.gw.iucaa.in/manasadevi-p-thirugnanasambandam/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=PIEurcAAAAAJ&hl=en" 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fototacticmoth"
