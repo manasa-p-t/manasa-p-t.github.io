@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "About"
+  - title: "Home"
     url: https://manasa-p-t.github.io/about/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Research"
     url: /research/
   - title: "Dissemination"
