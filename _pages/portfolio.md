@@ -6,10 +6,10 @@
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 ---\
-permalink: /portfolio/\
 title: \'93Portfolio\'94\
-last_modified_at: 2020-12-23T06:56:38-05:30\
-toc: true\
+Layout : single\
+permalink: /portfolio/\
+author_profile: true\
 ---\
 \
 ## Biography\
