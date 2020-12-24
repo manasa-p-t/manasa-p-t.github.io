@@ -11,16 +11,23 @@ I am an experimental physicist with a passion for lasers and applied optics. I a
 
 ### Work experience
 
-| STO (R&D), Inter-University Centre for Astronomy and Astrophysics, India | 2018 - present |
-| Postdoctoral fellow, Kansas State University, USA | 2015-18 |
-| Postdoctoral fellow, California Institute of Technology, LIGO laboratory, USA |2012-15 |
-| Research fellow, Institute for Laser Science, University of Electro-Communications, Japan | 2011-12 |
+ - STO (R&D), Inter-University Centre for Astronomy and Astrophysics, India.<br>
+ <em> 2018 - present </em>
+ - Postdoctoral fellow, Kansas State University, USA.<br>
+ <em> 2015-18 </em>
+ - Postdoctoral fellow, California Institute of Technology, LIGO laboratory, USA.<br>
+ <em> 2012-15 </em>
+ - Research fellow, Institute for Laser Science, University of Electro-Communications, Japan.<br>
+ <em> 2011-12 </em>
 
 ### Education
 
-| PhD in Physics, University of Electro-communications, Japan | 2011 |
-| MSc in Physics, University of Hyderabad, India | 2007 |
-| BSc in Physics, Pondicherry University (BGCW), India | 2005 |
+- PhD in Physics, University of Electro-communications, Japan. <br>
+<em> 2011 </em>
+- MSc in Physics, University of Hyderabad, India. <br>
+<em> 2007 </em>
+- BSc in Physics, Pondicherry University (BGCW), India. <br>
+<em> 2005 </em>
 
 ### Professional society affiliations\
 
