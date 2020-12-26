@@ -38,9 +38,12 @@ Pondicherry University (BGCW), India. <br>
 
 ### Professional society affiliations
 
-- LIGO Scientific Collaboration - Member (2012-16, 2019-present)
-- LIGO-India Scientific Collaboration - Member (2019-present)
-- Indian Initiative in Gravitational wave Observations - Member (2011-19)
+- LIGO Scientific Collaboration <br>
+Member (2012-16, 2019-present)
+- LIGO-India Scientific Collaboration <br>
+Member (2019-present)
+- Indian Initiative in Gravitational wave Observations <br>
+Member (2011-19)
 
 ### Awards and Scholarships
 
