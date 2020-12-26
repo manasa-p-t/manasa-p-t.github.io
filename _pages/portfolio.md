@@ -6,30 +6,37 @@ toc: true
 
 ### Biography
 
-I am an experimental physicist with a passion for lasers and applied optics. I am enthused towards research goals that challenge precision measurement using lasers.\
+I am an experimental physicist with a passion for lasers and applied optics. I am enthused towards research goals that challenge precision measurement using lasers.
 
 
 ### Work experience
 
- - STO (R&D), Inter-University Centre for Astronomy and Astrophysics, India.<br>
+ - STO (R&D), <br>
+ Inter-University Centre for Astronomy and Astrophysics, India.<br>
  <em> 2018 - present </em>
- - Postdoctoral fellow, Kansas State University, USA.<br>
+ - Postdoctoral fellow, <br>
+ Kansas State University, USA.<br>
  <em> 2015-18 </em>
- - Postdoctoral fellow, California Institute of Technology, LIGO laboratory, USA.<br>
+ - Postdoctoral fellow, <br>
+ California Institute of Technology, LIGO laboratory, USA.<br>
  <em> 2012-15 </em>
- - Research fellow, Institute for Laser Science, University of Electro-Communications, Japan.<br>
+ - Research fellow, <br>
+ Institute for Laser Science, The University of Electro-Communications, Japan.<br>
  <em> 2011-12 </em>
 
 ### Education
 
-- PhD in Physics, University of Electro-communications, Japan. <br>
+- PhD in Physics, <br>
+The University of Electro-Communications, Japan. <br>
 <em> 2011 </em>
-- MSc in Physics, University of Hyderabad, India. <br>
+- MSc in Physics, <br>
+University of Hyderabad, India. <br>
 <em> 2007 </em>
-- BSc in Physics, Pondicherry University (BGCW), India. <br>
+- BSc in Physics, <br>
+Pondicherry University (BGCW), India. <br>
 <em> 2005 </em>
 
-### Professional society affiliations\
+### Professional society affiliations
 
 - LIGO Scientific Collaboration - Member (2012-16, 2019-present)
 - LIGO-India Scientific Collaboration - Member (2019-present)
@@ -45,4 +52,12 @@ I am an experimental physicist with a passion for lasers and applied optics. I a
 
 ### Research Interests
 
-Optical amplifiers and resonators, optomechanics (optical design of instruments), precision measurement and advanced sensing, laser interferometry for gravitational wave detectors, cavity length sensing and control, laser frequency and intensity stabilization, high power solid-state and fiber lasers, mid-IR laser sources, laser frequency metrology, wavelength conversion and filtering, beam shaping and mode selection in lasers.
+ - High power solid-state and fiber lasers
+ - Precision measurement and advanced sensing
+ - Laser interferometry for gravitational wave detectors
+ - Cavity length sensing and control 
+ - Laser frequency and intensity stabilization 
+ - Mid-IR laser sources
+ - Laser frequency metrology
+ - Wavelength conversion and filtering 
+ - Beam shaping and mode selection in lasers
