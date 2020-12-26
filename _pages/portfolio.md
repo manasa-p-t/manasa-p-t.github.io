@@ -53,14 +53,4 @@ Member (2011-19)
  - Post Graduate Merit Scholarship awarded by UGC, India, for university rank holders to support higher education (2005 - 2007).
  - University first ranker in BSc Physics awarded by Pondicherry University (2005).
 
-### Research Interests
 
- - High power solid-state and fiber lasers
- - Precision measurement and advanced sensing
- - Laser interferometry for gravitational wave detectors
- - Cavity length sensing and control 
- - Laser frequency and intensity stabilization 
- - Mid-IR laser sources
- - Laser frequency metrology
- - Wavelength conversion and filtering 
- - Beam shaping and mode selection in lasers
