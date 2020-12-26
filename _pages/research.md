@@ -25,7 +25,7 @@ This work investigates homemade gas cells made using photonic bandgap optical fi
 This project aimed at designing a portable instrument to perform frequency comb spectroscopy on agriculturally significant gases that have their molecular fingerprints in the mid-IR region. 
  
 #### 2012 – 2015 <br>
-[LIGO Scientific Collaboration, California Institute of Technology, California, USA](https://caltechexperimentalgravity.github.io/index.html).
+[California Institute of Technology, California, USA](https://caltechexperimentalgravity.github.io/index.html).
 - Worked as part of the instrumentation group for the <em>LIGO Scientific Collaboration,</em> that made the breakthrough first direct detection of gravitational waves in 2015. My work was extensively in the assembly and commissioning for the 40 meter prototype interferometer at CalTech. The 40 meter is a controls prototype for the LIGO project working on interferometer control algorithms and serves as a test bed. 
 - Worked on research and development problems for the next generation of gravitational wave detectors.
 
