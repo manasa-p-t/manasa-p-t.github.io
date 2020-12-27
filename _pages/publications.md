@@ -4,8 +4,6 @@ title: "Publications"
 ---
 ### Peer-reviewed publications
 
-#### Non-LIGO publications:
-
 - Sajed Hosseini-Zavareh, Ryan Luder, Manasadevi P Thirugnanasambandam, HW Kushan Weerasinghe, Brian R Washburn, Kristan L Corwin, Fabrication and characterization of short acetylene-filled photonic microcells, Applied Optics, Accepted for publication, March 2019.
 - Sajed Hosseini-Zavareh, Manasadevi P Thirugnanasambandam, HW Kushan Weerasinghe, Brian R Washburn, Kristan L Corwin, Improved Acetylene-Filled Photonic Bandgap Fiber Cells Fabricated using a Tapering Method, Frontiers in Optics, JW4A. 95, 2018.
 - H. W. Kushan Weerasinghe, Neda Dadashzadeh, Manasadevi P. Thirugnanasambandam, Benoit Debord, Matthieu Chafer, Frederic Gerome, Fetah Benabid, Kristan L. Corwin, and Brian R. Washburn, Toward power scaling an acetylene mid-infrared hollow-core optical fiber gas laser: effects of pressure, fiber length, and pump power, Photonics West, January 2018, Proceedings of SPIE (Accepted, In Press).
