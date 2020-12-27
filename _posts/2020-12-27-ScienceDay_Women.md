@@ -1,22 +1,9 @@
 ---
-title: "Blogs"
-layout: archive
-permalink: /blog/
+title: "It's time to woman up for science"
+date: 2020-12-27
+layout: single
 author_profile: true
 comments: true
 ---
-<ul>
-  {% for post in site.posts %}
-    {% unless post.next %}
-      <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
-    {% else %}
-      {% capture year %}{{ post.date | date: '%Y %b' }}{% endcapture %}
-      {% capture nyear %}{{ post.next.date | date: '%Y %b' }}{% endcapture %}
-      {% if year != nyear %}
-        <font color="#778899"><h2>{{ post.date | date: '%Y %b' }}</h2></font>
-      {% endif %}
-
-    {% endunless %}
-   {% include archive-single.html %}
-  {% endfor %}
-</ul>
+A public talk delivered at IUCAA's National Science Day celebration, Feb. 28, 2019.<br>
+Watch the youtube webcast [here](https://www.youtube.com/embed/9LS6TcTmqL0?start=981).
