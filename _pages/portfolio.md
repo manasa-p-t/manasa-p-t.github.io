@@ -11,7 +11,7 @@ I am an experimental physicist with a passion for lasers and applied optics. I a
 
 ### Work experience
 
- - STO (R&D), <br>
+ - STO R&D (Research faculty), <br>
  Inter-University Centre for Astronomy and Astrophysics, India.<br>
  <em> 2018 - present </em>
  - Postdoctoral fellow, <br>
