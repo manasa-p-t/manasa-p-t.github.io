@@ -18,7 +18,7 @@ title: "Publications"
 - MP Thirugnanasambandam, Yu Senatsky, K Ueda, Generation of very‑high order Laguerre‑Gaussian modes in Yb: YAG ceramic laser, Laser Physics Letters, 2010, 7, 637.
     
 #### LIGO publications
-As a member of the LIGO scientific collaboration, I worked as part of the instrumentation group for LIGO at California Institute of Technology. I am a co-author in all the publications authored by the LIGO Scientific Collaboration from August 2012 up to 2016 and September 2018 until present. A complete list of those publications can be found below:
+As a member of the LIGO scientific collaboration, I worked as part of the instrumentation group for LIGO at California Institute of Technology. I am a co-author in all the publications authored by the LIGO Scientific Collaboration from August 2012 up to 2016. I am a current member of the LIGO India project and have been a co-author to all LSC publications since September 2018 until present. A complete list of those publications can be found below:
 - Prospects for observing and localizing gravitational-wave transients with Advanced LIGO, Advanced Virgo and KAGRA, Living Reviews in Relativity, 2018, 21, 1-57.
 - Effects of data quality vetoes on a search for compact binary coalescences in Advanced LIGO’s first observing run, Classical and Quantum Gravity, 2018, 35 (6), 065010.
 - Search for continuous gravitational waves from neutron stars in globular cluster NGC 6544, Physical Review D, 2017, 95 (8), 082005.
