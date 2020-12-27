@@ -8,7 +8,7 @@ author_profile: true
 #### Useful links to resources
 1. For LIGO educational resources,science summaries,latest updates: [LIGO Scientific Collaboration: LSC](https://www.ligo.org/)
 2. GW science in India: [LIGO India](https://www.ligo-india.in)
-3. GW science at IUCAA: [GW@IUCAA](www.gw.iucaa.in)
+3. GW science at IUCAA: [GW@IUCAA](http://www.gw.iucaa.in/)
 4. Science Summaries of the LSC Scientific Publications: [The science of LSC research](https://www.ligo.org/science/outreach.php)
 5. Gravitational Wave-Observatories Status and Log Book: [Gravitational-Wave Observatory Status](https://www.gw-openscience.org/detector_status/)
 6. LIGO - Instrument Science White Paper 2020 (Overview of the instrument research in the LSC): [LIGO-T2000407-v3: Instrument Science White Paper 2020](https://dcc-lho.ligo.org/LIGO-T2000407/public)
