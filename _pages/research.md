@@ -4,16 +4,16 @@ title: "Research"
 toc: true
 ---
 
-### Current Research Interests
- - Precision measurement and advanced sensing
- - Laser interferometry for gravitational wave detectors
- - Cavity length sensing and control 
- - Laser frequency and intensity stabilization 
- - Mid-IR laser sources
- - Laser frequency metrology
- - Wavelength conversion and filtering 
+## Current Research 
+
+### Quantum sensing with squeezed light <br>
+Squeezed light sources are a major success story in improving the sensistivity of gravitational wave detectors like LIGO. They allowed for suppression of quantum noise in the detectors below the standard quantum limit. This work primarily focusses on developing and refining the performance of squeezed light and extending its usability beyond the field of gravitational wave detectors. Squeezed light sources can potentially improve the the SNR in biomedical sensing techniques like stimulated Raman scattering microscopy, enhancing sensitivity of qunatum magnetometers, precision measurement of force and displacement, quantum radar and ranging. 
+### Laser frequency and intensity stabilization
+Improving the frequency and intensity stability is crucial for laser sources that are deployed in gravitational wave detectors. My work in this domain involves creating robust, low-noise syatems that can enhance the performance of the high power lasers that are used for long term interferometric measurements. The current work is focussed on improving the designing robust pre-mode cleaner cavity which filters the frequency, intensity and pointing noise in the laser source before it eneters the main interferometer in vacuum.
+### Optical modeling
+This work focuses on the design and optimization of the complex coupled resonant cavities in interferometric gravitational wave detectors to investigate the design tolerances and improve the stability and performance of the detectors. Simulations are also done to understand the various noise sources affecting the overall detector sensitivity and test different noise mitigation techniques.
  
-### Past research 
+## Past research 
  
 #### 2015 - 2018 <br>
 [J R Macdonald Laboratory, Kansas State University, Kansas, USA](https://jrm.phys.ksu.edu/).
