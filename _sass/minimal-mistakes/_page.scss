@@ -37,21 +37,21 @@ body {
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    width: calc(100% - 300px);
+    padding-right: 300px;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: calc(100% - 350px);
+    padding-right: 350px;
   }
 
   .page__inner-wrap {
     float: left;
     margin-top: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width: calc(100% - 4rem);
     clear: both;
 
     .page__content,
@@ -59,9 +59,9 @@ body {
     .page__share {
       position: relative;
       float: left;
-      margin-left: 0;
-      margin-right: 0;
-      width: 100%;
+      margin-left: 2rem;
+      margin-right: 2rem;
+      width: calc(100% - 4rem);
       clear: both;
     }
   }
