@@ -1,12 +1,13 @@
 ---
+layout: /single/
 permalink: /portfolio/
 title: "Portfolio"
-toc: true
+author_profile: true
 ---
 
 ### Biography
 
-I am an experimental physicist with a passion for lasers and applied optics. I am enthused towards research goals that challenge precision measurement using lasers.
+I am an experimental physicist with a passion for lasers and applied optics. I am enthused towards research goals that challenge photonics-based precision measurement.
 
 
 ### Work experience
