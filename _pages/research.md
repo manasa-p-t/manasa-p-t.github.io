@@ -1,8 +1,9 @@
 ---
-layout: single
+layout: /single/
 permalink: /research/
 title: "Research"
 author_profile: true
+toc: true
 ---
 
 ## Current Research 
